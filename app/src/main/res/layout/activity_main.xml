@@ -9,8 +9,8 @@
 
     <ImageButton
         android:id="@+id/imageButton"
-        android:layout_width="230dp"
-        android:layout_height="230dp"
+        android:layout_width="245dp"
+        android:layout_height="245"
         android:background="@null"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
